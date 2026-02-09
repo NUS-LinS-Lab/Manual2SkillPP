@@ -1,1 +1,1 @@
-# Manual2Skillpp-icra.github.io
+https://NUS-LinS-Lab.github.io/Manual2SkillPP/
